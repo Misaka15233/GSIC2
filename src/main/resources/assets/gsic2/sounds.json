@@ -1,0 +1,11 @@
+{
+  "fasterthanlight": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "gsic2:record/fasterthanlight",
+        "stream": true
+      }
+    ]
+  }
+}

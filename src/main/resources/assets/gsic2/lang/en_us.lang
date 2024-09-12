@@ -1,0 +1,26 @@
+#PARSE_ESCAPES
+#Tabs
+itemGroup.GSIC2=GSIC2
+
+#Items
+item.aluminum_nugget.name=Aluminum Nugget
+
+item.nickel_crushed.name=Crushed Nickel Ore
+item.cobalt_crushed.name=Crushed Cobalt Ore
+item.magnesium_crushed.name=Crushed Magnesium Ore
+
+item.nickel_purified.name=Purified Crushed Nickel Ore
+item.cobalt_purified.name=Purified Crushed Cobalt Ore
+item.magnesium_purified.name=Purified Crushed Magnesium Ore
+
+item.nickel_dust.name=Nickel Dust
+item.cobalt_dust.name=Cobalt Dust
+item.magnesium_dust.name=Magnesium Dust
+
+item.nickel_pile.name=Tiny Pile of Nickel Dust
+item.cobalt_pile.name=Tiny Pile of Cobalt Dust
+item.magnesium_pile.name=Tiny Pile of Magnesium Dust
+item.aluminum_pile.name=Tiny Pile of Aluminum Dust
+
+item.faster_than_light.name=Music Disc
+item.record.faster_than_light.desc=Faster Than Light

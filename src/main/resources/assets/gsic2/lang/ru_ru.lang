@@ -1,0 +1,26 @@
+#Russian (RU)
+#Tabs
+itemGroup.GSIC2=GSIC2
+
+#Items
+item.aluminum_nugget.name=Алюминиевый Наггет
+
+item.nickel_crushed.name=Разбить Никелевые Руды
+item.cobalt_crushed.name=Разбить Кобальтовую Руду
+item.magnesium_crushed.name=Разбей Магнезит Руду
+
+item.nickel_purified.name=Очищенная Разбить Никелевые Руды
+item.cobalt_purified.name=Очищенная Разбить Кобальтовую Руду
+item.magnesium_purified.name=Очищенная Разбей Магнезит Руду
+
+item.nickel_dust.name=Никел Пудр
+item.cobalt_dust.name=Кобальт Пудр
+item.magnesium_dust.name=Магн Пудр
+
+item.nickel_pile.name=Щепотку Никел Пудр
+item.cobalt_pile.name=Щепотку Кобальт Пудр
+item.magnesium_pile.name=Щепотку Магн Пудр
+item.aluminum_pile.name=Щепотку Алюминиев Пудр
+
+item.faster_than_light.name=Музыкальная Запись
+item.record.faster_than_light.desc=Быстрее Чем Свет
